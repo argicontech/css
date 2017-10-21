@@ -1104,7 +1104,7 @@ section.video .container {
 }
 
 section.video .video-overlay {
-	background: transparent url(../img/video-overlay.png) repeat 0 0;
+	background: transparent url(https://3.bp.blogspot.com/-BCgRyMnaAWc/WerPSXasxnI/AAAAAAAAN7s/ldRir8T_u2ILEJV1W1HVJh-mLaOqlRG4gCLcBGAs/s1600/video-overlay.png) repeat 0 0;
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -2400,7 +2400,7 @@ ul.social-icons li {
 	-webkit-transition: all 0.3s ease;
 	-moz-transition: all 0.3s ease;
 	transition: all 0.3s ease;
-	background-image: url(../img/social-sprites.png);
+	background-image: url(https://3.bp.blogspot.com/-S3dxIUKnddw/WerOayNPLKI/AAAAAAAAN7k/rgjKEivyHdIyXp43jt2ZCOlroEF_v0d5gCPcBGAYYCw/s1600/social-sprites.png);
 	background-repeat: no-repeat;
 	background-position: 0 100px;
 	display: inline-block;
@@ -2699,7 +2699,7 @@ ul.social-icons li.vk:hover {
 
 /* Arrows */
 .arrow {
-	background: transparent url(../img/arrows.png) no-repeat 0 0;
+	background: transparent url(https://2.bp.blogspot.com/-z1g1KXqd0gw/WerPSZDW-hI/AAAAAAAAN70/F9MbZ_8-BIsx7Wqh1_1mV6uKcp0OyxV_wCLcBGAs/s1600/arrows.png) no-repeat 0 0;
 	width: 47px;
 	height: 120px;
 	display: inline-block;
@@ -3188,7 +3188,7 @@ ul.history li p {
 }
 
 ul.history li .thumb {
-	background: transparent url(../img/history-thumb.png) no-repeat 0 0;
+	background: transparent url(https://3.bp.blogspot.com/-VCY1HGEhVos/WerPSR56-tI/AAAAAAAAN7w/2Pbu1PLLOegXUOt1a5pZy2-OycBbZZkVwCLcBGAs/s1600/history-thumb.png) no-repeat 0 0;
 	width: 227px;
 	height: 160px;
 	margin: 0 0 30px;
